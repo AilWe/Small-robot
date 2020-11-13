@@ -1,0 +1,10 @@
+GL_LOG_FILE log. local time Wed Apr 29 18:02:01 2020
+
+starting GLFW 3.0.1 X11 GLX glXGetProcAddress clock_gettime /dev/jsrenderer: GeForce GTX 745/PCIe/SSE2
+version: 4.6.0 NVIDIA 430.14
+creating shader from vert.shader...
+shader compiled. index 1
+creating shader from frag.shader...
+shader compiled. index 2
+created programme 3. attaching shaders 1 and 2...
+program 3 GL_VALIDATE_STATUS = GL_TRUE
