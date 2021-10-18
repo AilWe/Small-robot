@@ -27,10 +27,14 @@ Run program:
 3) run with command:
 `./cgfinal vert.shader frag.shader img0_checkers.png img1_lina.png img2_drow.png img3_cm.png img4_sky.jpg img5_floor.jpg img6_text31.jpg`
 
-or you can use the run.sh script inside main folder to run everything:
-cd main
-./run.sh
+or 
+you can use the run.sh script inside main folder to run everything:
+`cd main`
+`./run.sh`
 
 
-video link:
-https://drive.google.com/file/d/1qkFurOUS6gAM7tsj8gjbhyjeBLNSkph3/view?usp=sharing
+Video link:
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1qkFurOUS6gAM7tsj8gjbhyjeBLNSkph3/view?usp=sharing)
+
+
