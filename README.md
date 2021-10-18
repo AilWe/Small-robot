@@ -35,6 +35,6 @@ you can use the run.sh script inside main folder to run everything:
 
 Video link:
 
-[https://photos.app.goo.gl/xYE3s2x6UiaweqJt7](https://youtu.be/W_aOmFOVz1w )
+[(https://photos.app.goo.gl/xYE3s2x6UiaweqJt7)](https://youtu.be/W_aOmFOVz1w )
 
 
