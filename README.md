@@ -35,7 +35,7 @@ you can use the run.sh script inside main folder to run everything:
 
 Video link:
 
-[<img src="https://www.youtube.com/watch?v=W_aOmFOVz1w" width="50%">](https://youtu.be/W_aOmFOVz1w)
+[<img src="https://github.com/AilWe/Small-robot/blob/main/mq2.jpg" width="50%">](https://youtu.be/W_aOmFOVz1w)
 
 
 
